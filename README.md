@@ -1,6 +1,7 @@
 Documentation for setting i-net Crystal Reports
 
-PERTAMA-TAMA YANG HARUS DILAKUKAN ADALAH COPY FOLDER **"Datatex Clear Reports"** & **"jdk-11.0.1"** KE FOLDER DATA D MASING-MASING.
+PERTAMA-TAMA YANG HARUS DILAKUKAN ADALAH COPY FOLDER **"Datatex Clear Reports"** & **"jdk-11.0.1"** KE FOLDER DATA D: MASING-MASING.
+Folder ada di : (Shared Driver\DIT\IT Programmer)
 
 INSTAL JAVA 11.0.1
 1. Instal Java jdk-11.0.1
