@@ -8,10 +8,10 @@ Documentation for setting i-net Crystal Reports
     - Buka CMD
     - Ketikkan perintah "Java -version"
     - Jika berhasil maka muncul tulisan "openjdk version "11.0.1" 2018-10-16...................
-2. Download Folder "Datatex Clear Reports"
-3. Paste folder tersebut ke C:\Program Files
-4. Buka file "startDesigner.bat" didalam folder "Datatex Clear Reports"
-5. jika sudah terbuka, klik **option** > **Data Sources...** >
+3. Download Folder "Datatex Clear Reports"
+4. Paste folder tersebut ke C:\Program Files
+5. Buka file "startDesigner.bat" didalam folder "Datatex Clear Reports"
+6. jika sudah terbuka, klik **option** > **Data Sources...** >
    a. pada tab user anda silahkan klik "add"
    b. pilih "user-definded driver" > ok
    c. masukan settingan dibawah ini :
@@ -21,7 +21,7 @@ Documentation for setting i-net Crystal Reports
      - JDBC Driver URL : jdbc:db2://10.0.0.21:25000/NOWPRD
      - User : db2admin
      - Password : <<Jika sudah sampai step ini silahkan bertanya di group Programmer ITTI>>
-6. selesai
+7. selesai
 
 ***Note ** : Jika ada yang ingin ditanyakan silahkan tanya langsung saja.
 
